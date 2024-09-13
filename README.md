@@ -61,3 +61,5 @@ A formatação e estilo de código foram feitos com [Biome](https://biomejs.dev/
 [PostgreSQL](https://www.postgresql.org/)
 
 [Figma - Projeto](https://www.figma.com/design/RKkxHEWy634ZEYBzjZEU1n/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)?node-id=83-5&node-type=frame&t=Uev1mlGRsv4wZfif-0)
+
+[Web/Frontend](https://github.com/eliveltonlima999/goal-manager-web)

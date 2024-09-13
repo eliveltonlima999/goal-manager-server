@@ -49,3 +49,13 @@ npx drizzle-kit generate
 A formatação e estilo de código foram feitos com [Biome](https://biomejs.dev/pt-br/).
 
 ![Stacks](https://skillicons.dev/icons?i=postgres,docker,nodejs,ts,git,github&theme=dark)
+
+
+### Links
+[DrizzleORM](https://orm.drizzle.team/)
+
+[Fastify](https://fastify.dev/)
+
+[Day.js](https://day.js.org/)
+
+[PostgreSQL](https://www.postgresql.org/)
